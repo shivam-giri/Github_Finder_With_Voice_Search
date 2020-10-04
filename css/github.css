@@ -70,6 +70,12 @@ body {
     color: rgba(0, 89, 255, 0.877);
 
 }
+button{
+    display: flex;
+}
+button {
+    font-size: 20px;
+}
 
 #ProfileBlock article {
     background: #fff;
